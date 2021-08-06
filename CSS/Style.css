@@ -1,0 +1,99 @@
+body {
+  margin: auto;
+  font-family: 'Karla', sans-serif;
+  color: #40514E;
+  background-color: #FDF6F0;
+}
+
+table {
+  border-collapse: collapse;
+  border-radius: 5px;
+  background-color: white;
+  width: 38em;
+  box-shadow: 4px 4px 4px rgba(0,0,0,.15);
+  margin: 150px auto;
+}
+
+.top-container{
+  padding: 20px 10px 20px 30px;
+}
+
+h3{
+  color: #2AB2AF;
+  font-size: 1.3em;
+}
+
+.top-container h4 {
+  color: #C0DF34;
+}
+
+.top-container p {
+  color: #98A6BD;
+  line-height: 1.5;
+}
+
+.left-container{
+  background-color: #2AB2AF;
+  color: #E5EFF5;
+  padding: 5px 10px 15px 30px;
+  width: 16.5em;
+}
+
+.money{
+  font-size: 2.3em;
+}
+
+.tab{
+  margin-left: 10px;
+}
+
+.per-month {
+  font-size: 0.9em;
+  color: #E5EFF5;
+  opacity: 0.5;
+}
+
+.left-container p{
+  font-size: 1em;
+}
+
+.btn {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 5px;
+  height: 20px;
+  line-height: 20px;
+  color: #E5EFF5;
+  font-family: 'Karla', sans-serif;
+  width: 210px;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 13px;
+  background-color: #C0DF34;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: #99C624;
+  border: solid #99C624 0;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.right-container{
+  background-color: #2AB2AF;
+  opacity: 0.8;
+  padding: 10px 10px 15px 30px;
+  color: #E5EFF5;
+}
+
+.right-container p{
+  font-size: 0.8em;
+  line-height: 1.5;
+  opacity: 0.7;
+}
